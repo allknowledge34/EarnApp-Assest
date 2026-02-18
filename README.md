@@ -5,7 +5,7 @@ A full-featured Earning Android application built using **Java, XML, MVVM Archit
 This project demonstrates a reward-based earning system where users can participate in tournaments, earn coins, track rankings, and redeem rewards. The app also includes a powerful admin panel to manage users and system activities.
 
 ------------------------------------------------------------
-![Demo App](/app/src/main/res/drawable/maxresdefault-14.jpg)
+![Demo App](UserSideAssest/drawable/maxresdefault-14.jpg)
 ------------------------------------------------------------
 
 Perfect for:
